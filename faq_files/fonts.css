@@ -1,0 +1,22 @@
+/**
+*
+*	Name:			Font Farsi Plugin Fonts
+*	Version:		1.5
+*	Author:			KHL32 (persian-vc.com)
+--------------------------------------------------------------------------------------
+*	
+**/
+@font-face {
+
+	font-family: Yekan;
+	font-style: normal;
+	font-weight: 900;
+src: url('eot/Yekan.eot');
+src: url('eot/Yekan.eot?#iefix') format('embedded-opentype'),
+     url('woff/Yekan.woff') format('woff'),
+	 url('woff2/Yekan.woff2') format('woff2'),
+	 url('ttf/Yekan.ttf') format('truetype'),
+	 url('svg/Yekan.svg#BYekan') format('svg');
+
+}
+}
